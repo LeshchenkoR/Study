@@ -2,7 +2,7 @@ package Module3;
 
 public class Task3 {
     public static void main(String[] args) {
-        String[] names = {"Sasha", "Igor", "Misha", "Kolya", "Vova"};
+        String[] names = {"Sashka", "Igoreshka", "Mishka", "Kolyan", "Vovan"};
         String[] result = new String[5];
         int[] sumPoint = new int[5];
         int point[][] = {

@@ -6,7 +6,7 @@ public class Programmer {
     public Programmer(String name, String company) {
         this.name = name;
         this.company = company;
-        this.position = "Intern";
+        this.position = "intern";
     }
 
     public String getPosition() {
